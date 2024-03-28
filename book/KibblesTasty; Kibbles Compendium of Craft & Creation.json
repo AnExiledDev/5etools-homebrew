@@ -1,0 +1,163 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "KCoC&C",
+				"abbreviation": "KCCC",
+				"full": "Kibbles Compendium of Craft & Creation",
+				"authors": [
+					"KibblesTasty"
+				],
+                "convertedBy": [
+                    "AnExiledDev"
+                ],
+				"version": "2024.03.27",
+				"url": "https://kibbles-compendium.backerkit.com/hosted_preorders"
+			}
+		],
+		"dateAdded": 1711592971,
+		"dateLastModified": 1711592971
+	},
+	"race": [
+		{
+			"name": "Farling",
+			"source": "KCoC&C",
+            "page": 120,
+			"size": [
+                "M"
+            ],
+			"ability": [
+				{
+					"wis": 1,
+					"int": 1,
+					"cha": 1
+				}
+			],
+			"speed": {
+                "walk": 30,
+                "swim": 20
+            },
+            "skillProficiencies": [
+				{
+					"insight": true,
+                    "any": 1
+				}
+			],
+            "toolProficiencies": [
+                {
+                    "anyArtisansTool": 1
+                }
+            ],
+			"languageProficiencies": [
+				{
+					"common": true,
+                    "deep speech": true,
+                    "any": 1
+				}
+			],
+            "resist": [
+                "psychic"
+            ],
+            "creatureTypes": [
+                "aberration"
+            ],
+            "age": {
+                "mature": 10,
+                "max": 0
+            },
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Ability Score Increase",
+					"entries": [
+						"Your Intelligence score, Wisdom score, and Charisma score all increase by 1."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Age",
+					"entries": [
+						"A Farling ages by absorbing memories. Each time they permanently absorb a memory, they age roughly one day. A young Farling can absorb dozens of memories a day, aging rapidly. Once reaching adulthood (a process that often only takes a decade), the rate at which they can absorb memories begins to slow, they become more selective, aging far slower."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Alignment",
+					"entries": [
+						"Farlings show little consistency in alignment, and are shaped by their circumstances and background. Their curious and impulsive nature often leads younger members of the race to exhibit chaotic tendencies."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Most Farlings stand between 5 and 6 feet tall, with a slighter build than humans. Your size is Medium."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Aberration",
+					"entries": [
+						" Your creature type is Aberration, rather than humanoid."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet. You have a swimming speed of 20 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common, Deep Speech, and one extra language of your choice."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Adaptive Intuition",
+					"entries": [
+						"You gain proficiency in Insight, and have advantage on Wisdom (Insight) checks to determine social cues or cultural customs."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Psionic Mind",
+					"entries": [
+						"You gain the Telepathy Discipline of the psion, though you can’t use the Alternate Effects unless you gain this Discipline from another source. If you gain this Discipline from another source, you gain 1 additional psi point instead,"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Crystalized Memory",
+					"entries": [
+						"When you learn or experience some- thing, you can fix that memory, making it a permanent memory you can always remember with crystal clarity. This memory can be anything that occurs within a 1 hour span (it can be as short as a fleeting sensation, or as long as 1 hour of events). Once you do this, you can’t do so again until you finish a long rest. Absorbing these memories is how a Farling ages, and you age one day for each memory you absorb in this way. You can absorb a memory from a willing creature via your telepathy in this way."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Broad Horizons",
+					"entries": [
+						"You have resistance to psychic damage. Once per day, if take psychic damage from a critical hit, you can choose to absorb that damage as a memory, taking no damage."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Skill Absorption.",
+					"entries": [
+						"Your rapid ability to learn new skills grants you proficiency in one artisan tool and one skill of your choice. At your GM’s discretion, if your game allows for the training in tools and skills, you may gain proficiency in them twice as fast using your Crystalized Memory feature daily."
+					]
+				},
+				{
+					"type": "entries",
+					"name": " Alien Mind (Optional, Skill Absorption replacement)",
+					"entries": [
+						"When you gain the Spellcasting or Psionics ability from any class or feature, you can change the associated ability score to your choice of Intelligence, Wisdom, or Charisma. Any time that class references the previous spell casting ability, you can replace it with your selected score (for example, if you are playing a Psion and change its associated ability score to Charisma, Empowered Psiosnics would add Charisma instead of Intelligence)."
+					]
+				}
+			]
+		}
+	]
+}
